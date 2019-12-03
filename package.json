@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "day1": "node -r esm days/day1",
-    "day2": "node -r esm days/day2"
+    "day2": "node -r esm days/day2",
+    "day3": "node -r esm days/day3"
   },
   "author": "",
   "license": "ISC",
